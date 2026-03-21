@@ -1,26 +1,26 @@
 # 🎨 Imagify – AI-Based Image Generation Platform
 
-Imagify is an AI-powered image generation platform that converts user text prompts into images. It is built using the MERN stack and integrates PayPal for subscription-based access.
+Imagify is a full-stack AI-powered web application that converts user text prompts into high-quality images. Built using the MERN stack, it integrates secure payment functionality using PayPal to enable subscription-based access.
 
 ---
 
 ## 🚀 Features
 
-- 🧠 Generate images from text prompts using AI
-- 💳 Subscription-based access using PayPal
-- 🔐 User authentication and request handling
-- ⚡ Fast and responsive UI
-- 📡 RESTful APIs for image generation workflow
+- 🧠 AI-based image generation from text prompts  
+- 💳 PayPal payment integration for subscriptions  
+- 🔐 User authentication and request handling  
+- ⚡ Fast and responsive user interface  
+- 📡 RESTful APIs for managing image generation workflows  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Payment Integration: PayPal
-- Other: REST APIs, JSON
+- Frontend: React.js  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Payment Gateway: PayPal  
+- Other Tools: REST APIs, JSON  
 
 ---
 
@@ -28,7 +28,6 @@ Imagify is an AI-powered image generation platform that converts user text promp
 
 ### 1. Clone the repository
 
-
 ```bash
-git clone https://github.com/XperienceInWebRakshaSoni22to26/Imagify-AI-Based-Image-Generation-Platform-MERN-PayPal.git
-
+git clone https://github.com/XperienceInWebRakshaSoni22to26/Imagify-AI-Based-Image-Generation-Platform-MERN-PayPal-.git
+cd Imagify-AI-Based-Image-Generation-Platform-MERN-PayPal-
