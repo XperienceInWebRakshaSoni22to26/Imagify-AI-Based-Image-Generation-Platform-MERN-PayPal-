@@ -16,12 +16,12 @@ Imagify is a full-stack AI-powered web application that converts user text promp
 
 ## 🛠 Tech Stack
 
-- Frontend: React.js  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Payment Gateway: PayPal  
-- Other Tools: REST APIs, JSON  
-
+- 🎨 **Frontend:** React.js  
+- ⚙️ **Backend:** Node.js, Express.js  
+- 🗄️ **Database:** MongoDB  
+- 🧠 **AI Integration:** Clipdrop API for prompt-based image generation  
+- 💳 **Payments:** PayPal Subscription System  
+- 🔗 **APIs:** RESTful APIs, JSON  
 ---
 
 ## ⚙️ Installation & Setup
